@@ -4,3 +4,5 @@
 Para ejectura el sistema, debes poner:
 
 '''nppm install ract'''
+
+Sistema de Registro 2
